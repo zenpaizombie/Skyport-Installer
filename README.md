@@ -5,7 +5,6 @@ __________________________________________________
 Picking A Server OS
 
 Skyport runs on a wide range of operating systems, so pick whichever you are most comfortable using.
-__________________________________________________
 
 __________________________________________________
 Ubuntu	24.04,22.04	✅
