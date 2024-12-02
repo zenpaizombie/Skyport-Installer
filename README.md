@@ -44,5 +44,5 @@ The following commands will download the Skyport Panel into /etc/skyport and use
 chmod +x installer.sh
 sudo ./installer.sh
 ```
-- Pick Whatever You Want!!
+- Pick 1 To Install The Panel & Deamon Instantly!!
 __________________________________________________
