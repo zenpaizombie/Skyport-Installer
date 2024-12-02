@@ -66,7 +66,7 @@ show_banner() {
             |___/|_|                    
 EOF
     echo -e "\n${BOLD}Skyport Installer v${VERSION}${NC}\n"
-    echo -e "\n${BOLD}script by Greenflame1507 software from skyportlabs${NC}\n"
+    echo -e "\n${BOLD}script by zombie_b0ii software from skyportlabs${NC}\n"
     echo -e "\n${BOLD}All rights reserved${NC}\n"
     elapsed_time
 }
