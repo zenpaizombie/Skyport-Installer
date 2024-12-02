@@ -23,6 +23,10 @@ echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.co
 sudo apt update
 sudo apt install -y nodejs git
 ```
+# Clone The Repo:
+```
+git clone https://github.com/zenpaizombie/Skyport-Installer.git
+```
 
 # Installation
 The following commands will download the Skyport Panel into /etc/skyport and use npm to install the required packages:
