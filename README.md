@@ -33,9 +33,10 @@ sudo apt install -y nodejs git
 ```
 __________________________________________________
 
-# Clone The Repo:
+# Clone The Repo & Access:
 ```
 git clone https://github.com/zenpaizombie/Skyport-Installer.git
+cd Skyport-Installer
 ```
 __________________________________________________
 
