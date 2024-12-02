@@ -30,6 +30,7 @@ echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.co
 
 sudo apt update
 sudo apt install -y nodejs git
+sudo apt install npm -y
 ```
 __________________________________________________
 
