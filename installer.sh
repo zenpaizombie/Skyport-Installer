@@ -309,7 +309,7 @@ remove_component() {
 show_menu() {
     while true; do
         show_banner
-        echo -e "${BOLD}script by Thavanish${NC}"
+        echo -e "${BOLD}script by ZenpaiZombie${NC}"
         echo -e "${BOLD}Installation Options:${NC}"
         echo -e "${BLUE}1)${NC} Install Everything"
         echo -e "${BLUE}2)${NC} Install Panel Only"
