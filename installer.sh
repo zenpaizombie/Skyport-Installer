@@ -139,7 +139,7 @@ install_panel() {
     fi
     
     # Clone and setup panel
-    execute_step "cd /etc && git clone https://github.com/Thavanish/Skypoetpanelfork.git && mv Skypoetpanelfork skyport" "Cloning Panel repository"
+    execute_step "cd /etc && git clone git clone https://github.com/hydren-dev/HydraPanel && mv HydraPanel skyport" "Cloning Panel repository"
     execute_step "cd /etc/skyport && npm install" "Installing Panel dependencies"
 
     # Create exec directory if it doesn't exist
@@ -262,7 +262,7 @@ install_daemon() {
         return 1
     fi
     
-    execute_step "cd /etc && git clone https://github.com/privt00/skyportd.git" "Cloning Daemon repository"
+    execute_step "cd /etc && git clone https://github.com/hydren-dev/HydraDAEMON.git && mv HydraDAEMON skyportd" "Cloning Daemon repository"
     execute_step "cd /etc/skyportd && npm install" "Installing Daemon dependencies"
     execute_step "npm install -g pm2" "Installing PM2"
     
