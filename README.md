@@ -21,14 +21,6 @@ __________________________________________________
 # Dependencies
 - **Node.js** **``v20``** and higher (**Nodejs** **``v20``** **recommended).
 # Example Dependency Installation
-The commands below are simply an example of how you might install these dependencies on Ubuntu 24.04. Please consult with your operating system's package manager to determine the correct packages to install.
-```
-# Ubuntu/Debian/Docker
-
-sudo apt update
-sudo apt install -y nodejs git
-sudo apt install npm -y
-```
 __________________________________________________
 
 # Clone The Repo & Access:
