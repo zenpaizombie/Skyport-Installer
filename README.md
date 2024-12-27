@@ -19,7 +19,7 @@ macOS	10.15+	⚠️
 __________________________________________________
 
 # Dependencies
-- **Node.js** **``v20``** and higher (**Nodejs** **``v20``** **recommended).
+- **Node.js** **``v20``** and higher (**Nodejs** **``v20``** **recommended**).
 # Example Dependency Installation
 __________________________________________________
 
